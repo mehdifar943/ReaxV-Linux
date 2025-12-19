@@ -1,0 +1,13 @@
+HOW TO INSTALL REAXVISUAL:
+==========================
+
+1. Download: ReaxVisual-Linux.tar.gz
+
+2. Extract:
+   tar -xzf ReaxVisual-Linux.tar.gz
+
+3. Run:
+   cd ReaxVisual-Release
+   ./ReaxVisual
+
+That's it! No installation needed.

@@ -12,7 +12,7 @@
 
 ## 📖 Overview
 
-**ReaxVisual** is a cutting-edge desktop application designed for computational chemists and materials scientists. It provides **real-time 3D visualization** and **interactive analysis** of Reactive Force Field (ReaxFF) molecular dynamics simulations, bridging the gap between complex simulation data and intuitive chemical understanding.
+**ReaxVisual** is a cutting-edge desktop application designed for computational chemists and materials scientists. It provides **interactive analysis** of Reactive Force Field (ReaxFF) molecular dynamics simulations, bridging the gap between complex simulation data and intuitive chemical understanding.
 
 > **Direct LAMMPS Integration • Automatic Molecule Recognition • Live Reaction Monitoring**
 
@@ -53,7 +53,7 @@ Traditional analysis of ReaxFF trajectories for systems containing thousands of 
 This program directly addresses these challenges by transforming abstract data into visual, interactive chemical insight:
 
 *   **From Data to Mechanism**: It automates the tedious process of **molecule recognition and tracking** across thousands of simulation frames, instantly revealing the birth, evolution, and consumption of chemical species. This allows researchers to visually **confirm reaction pathways** and identify rare but crucial catalytic cycles or decomposition routes that might be missed in standard analysis.
-*   **Intuitive Validation & Discovery**: By providing a real-time, dynamic view of the simulation, ReaxVisual serves as an essential **validation tool**. Researchers can immediately see if a simulation is proceeding as expected based on chemical intuition, leading to faster debugging of simulation parameters. Furthermore, the visual format often leads to **unexpected discoveries**—spotting non-obvious intermediates or spatial correlations that are not apparent in graphs or tables.
+*   **Intuitive Validation & Discovery**: By providing a view of the simulation, ReaxVisual serves as an essential **validation tool**. Researchers can immediately see if a simulation is proceeding as expected based on chemical intuition, leading to faster debugging of simulation parameters. Furthermore, the visual format often leads to **unexpected discoveries**—spotting non-obvious intermediates or spatial correlations that are not apparent in graphs or tables.
 *   **Scaling Insight with System Size**: The utility of ReaxVisual **increases with the size and complexity of the simulated system**. For studies on polymer aging, catalyst surfaces, or energetic material decomposition—where hundreds of simultaneous reactions may occur—the software's ability to automatically generate and visualize a reaction network is indispensable. It turns an overwhelming dataset into a navigable map of chemical events, making the analysis of large-scale reactive simulations not just possible, but efficient and insightful.
 
 In essence, ReaxVisual closes the critical loop between simulation and understanding, enabling researchers to fully leverage the predictive power of ReaxFF to explore and explain complex chemical phenomena.

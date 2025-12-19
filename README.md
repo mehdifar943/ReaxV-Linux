@@ -33,10 +33,13 @@
 ## 🚀 Quick Installation
 
 ### Download & Install:
-1. **Download the latest release** from the [Releases section](https://github.com/mehdifar943/ReaxVisual/releases)
-2. **Run `ReaxVisual_1.0.exe`** with administrator privileges
-3. **Follow the installation wizard** (default installation takes 2-3 minutes)
-4. **Launch** from Start Menu or Desktop shortcut
+1. **Download the latest release** from the [Releases section](https://github.com/mehdifar943/ReaxV-Linux)
+2. Download: ReaxV-1.0-Linux.tar.gz
+3. Extract: tar -xzf ReaxV-1.0-Linux.tar.gz
+4. Run:   cd ReaxVisual-Release
+5. ./ReaxVisual
+4. **Follow the installation wizard** (default installation takes 2-3 minutes)
+5. **Launch** from Start Menu or Desktop shortcut
 
 > The installer includes a bundled Java Runtime Environment for easy setup on Windows systems.
 

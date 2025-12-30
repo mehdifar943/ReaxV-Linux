@@ -12,7 +12,7 @@
 
 ## 📖 Overview
 
-**ReaxVisual** is a cutting-edge desktop application designed for computational chemists and materials scientists. It provides **interactive analysis** of Reactive Force Field (ReaxFF) molecular dynamics simulations, bridging the gap between complex simulation data and intuitive chemical understanding.
+**ReaxVisual** is a desktop application designed for computational chemists and materials scientists. It provides **interactive analysis** of Reactive Force Field (ReaxFF) molecular dynamics simulations, bridging the gap between complex simulation data and intuitive chemical understanding.
 
 > **Direct LAMMPS Integration • Automatic Molecule Recognition • Live Reaction Monitoring**
 
